@@ -1,0 +1,7 @@
+C:\C#\HomeWork6\HomeWork6\HomeWork6\bin\Debug\HomeWork6.exe.config
+C:\C#\HomeWork6\HomeWork6\HomeWork6\bin\Debug\HomeWork6.exe
+C:\C#\HomeWork6\HomeWork6\HomeWork6\bin\Debug\HomeWork6.pdb
+C:\C#\HomeWork6\HomeWork6\HomeWork6\obj\Debug\HomeWork6.csprojAssemblyReference.cache
+C:\C#\HomeWork6\HomeWork6\HomeWork6\obj\Debug\HomeWork6.csproj.CoreCompileInputs.cache
+C:\C#\HomeWork6\HomeWork6\HomeWork6\obj\Debug\HomeWork6.exe
+C:\C#\HomeWork6\HomeWork6\HomeWork6\obj\Debug\HomeWork6.pdb
